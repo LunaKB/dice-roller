@@ -1,0 +1,1 @@
+The Dice Roller project provides functionality for rolling a single die or a set of die and getting a random number. The CI/CD pipeline generates a JAR file that can be imported into other Java or Kotlin projects.
